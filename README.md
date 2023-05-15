@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS and C**
 
-- 📫 How to reach me **aesthetic.shrish@gmail.com**
+- 📫 How to reach me **shrish.bhargav99@gmail.com**
 
 - ⚡ Fun fact **I think I play better table tennis.**
 
