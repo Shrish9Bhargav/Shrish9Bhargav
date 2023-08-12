@@ -2,11 +2,10 @@
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrish9bhargav&label=Profile%20views&color=0e75b6&style=flat" alt="shrish9bhargav" /> </p>
-<a href="https://www.software.com/100-days-of-code">
-    <img src="https://www.software.com/badges/100-days-of-code" />
-</a>
 
-- 🔭 I’m currently working on **My Portfolio Site**
+    
+
+- 🔭 I’m currently working on *The OCR Project**
 
 - 🌱 I’m currently learning **ReactJs,TypeScript, Java**
 
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me **shrish.bhargav99@gmail.com**
 
-- ⚡ Fun fact **I think I play better table tennis.**
+- ⚡ Fun fact **Btw I use Arch :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
