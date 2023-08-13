@@ -5,7 +5,7 @@
 
     
 
-- 🔭 I’m currently working on *The OCR Project**
+- 🔭 I’m currently working on **The OCR Project**
 
 - 🌱 I’m currently learning **ReactJs,TypeScript, Java**
 
