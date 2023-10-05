@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrish.bhargav99@gmail.com**
 
-- ⚡ Fun fact **Btw I use Arch :)**
+- ⚡ My system : **ArchLinux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
