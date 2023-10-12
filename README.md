@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **HTML5, JavaScript and CSS3**
 
-- 💬 Ask me about **HTML, CSS and C, Chess and probably table tennis.**
+- 💬 Ask me about **Chess and table tennis.**
 
 - 📫 How to reach me **shrish.bhargav99@gmail.com**
 
